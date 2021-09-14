@@ -1,0 +1,32 @@
+.search{
+    display: block;
+    color: aqua;
+    background-color: white;
+    border-radius: 12px;
+    border-color: aqua;
+    width: 140px;
+    height: 25px;
+    margin:30px 30px 10px;
+}
+
+.plus{
+    display: block;
+    border-radius: 50%;
+    margin:10px 30px 10px;
+    color: white;
+    background-color: aqua;
+    width: 40px;
+    height: 40px;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.create{
+    display: block;
+    margin:10px 30px 10px;
+    color: white;
+    background-color: blue;
+    width: 160px;
+    height: 30px;
+    box-shadow: 5px 5px 5px black;
+}   
